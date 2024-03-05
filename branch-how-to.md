@@ -1,7 +1,7 @@
 ## Как работать с ветками  
 Чтобы создать ветку, нужно написать:  
-< git branch name
+> git branch name  
 Чтобы переключиться в ветку, нужно ввести:  
-< git checkout name
+> git checkout name  
 Чтобы отправить ветку на сервер, нужно ввести:  
-< git push --set-upstream origin name
+> git push --set-upstream origin name
